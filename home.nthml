@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hosting Minecraft - Inicio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Bienvenido a Tu Hosting de Servidores Minecraft</h1>
+  </header>
+
+  <main>
+    <!-- Plan GG destacado -->
+    <section class="plan-gg">
+      <h2>🔥 Plan GG - ¡Gratis y poderoso!</h2>
+      <p><strong>150 GB</strong> de almacenamiento</p>
+      <p><strong>500 compatibilidades</strong> con plugins/mods</p>
+      <p><strong>300 slots</strong> para jugadores</p>
+      <p><strong>24/7</strong> sin interrupciones</p>
+      <p><strong>Hasta 50 servidores</strong> por cuenta</p>
+      <p><strong>Dominios personalizados</strong> incluidos (.net, .com, .xyz, .io)</p>
+      <a href="registro.html" class="btn">¡Comenzar Gratis!</a>
+    </section>
+  </main>
+</body>
+</html>
